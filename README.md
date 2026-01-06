@@ -23,7 +23,7 @@ This fork builds on the original idea while modernizing the implementation for P
 
 ## Key Improvements ✨
 
-### Plasma 6‑Only Codebase  
+### Plasma 6 Only Codebase  
 By removing Plasma 5 support, the script now uses Plasma 6’s native virtual desktop API directly.  
 This eliminates legacy workarounds and results in:
 
