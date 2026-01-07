@@ -9,7 +9,7 @@ function trace(...args) { if (LOG_LEVEL <= 0) log(...args); }
 
 let animationGuard = false;
 
-/******** Plasma‑6 Compatibility Layer ********/
+/******** Plasma 6 Compatibility Layer ********/
 
 const compat = {
 	addDesktop: () => {
