@@ -90,9 +90,9 @@ The codebase removes:
 
 - Deprecated APIs  
 - Plasma 5 compatibility logic  
-- Direction‑dependent cleanup  
-- Middle‑desktop deletion rules  
-- Index‑shifting window movement  
+- Direction dependent cleanup  
+- Middle desktop deletion rules  
+- Index shifting window movement  
 
 Replaced with:
 
@@ -102,7 +102,7 @@ Replaced with:
 - Reliable animation guarding  
 - A simple, append‑only workspace lifecycle  
 
----
+
 
 # Comparison With the Original Project 📊
 
@@ -120,13 +120,13 @@ Replaced with:
 | Window shifting | Required | Removed |
 | Session consistency | Variable | Deterministic |
 
----
+
 
 # License (MIT) 📄
 
 This fork uses the MIT License, this is a change from the BSD3 license of the original project, this change was made to make this poject more in line with modern expectations on a kwinscript
 
----
+
 
 # Credits 🙏
 
