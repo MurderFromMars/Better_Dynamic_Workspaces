@@ -2,7 +2,7 @@
 
 # Better Dynamic Workspaces
 
-*A Plasma‑6‑native reimagining of the original **dynamic_workspaces** script created by **maurges**.*
+*A Plasma 6 native reimagining of the original **dynamic_workspaces** script created by **maurges**.*
 
 This fork modernizes the original concept for Plasma 6, delivering predictable desktop ordering, GNOME‑like dynamic workspace behavior, and a clean, maintainable codebase.
 
