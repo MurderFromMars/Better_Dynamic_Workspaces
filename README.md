@@ -6,7 +6,7 @@
 
 This fork modernizes the original concept for Plasma 6, delivering predictable desktop ordering, GNOME‑like dynamic workspace behavior, and a clean, maintainable codebase.
 
----
+
 
 # Why This Fork Exists ⚙️
 
@@ -22,7 +22,7 @@ Under Plasma 6, the original script could encounter:
 
 This fork rebuilds the idea with a Plasma 6 first approach, dropping Plasma 5 support in favor of producing a cleaner, more predictable, and more GNOME‑accurate experience.
 
----
+
 
 # Key Features ✨
 
@@ -47,7 +47,7 @@ The workspace lifecycle now mirrors GNOME’s behavior:
 
 This ensures a minimal, self‑maintaining workspace layout.
 
----
+
 
 # Unified Cleanup System
 
