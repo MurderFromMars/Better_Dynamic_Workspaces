@@ -9,7 +9,7 @@
     "Description": "GNOME-style dynamic workspace management",
     "EnabledByDefault": true,
     "Id": "better-dynamic-workspaces",
-    "License": "BSD-3-Clause",
+    "License": "BSD-3 Clause",
     "Name": "Better Dynamic Workspaces",
     "Version": "1.3"
   },
