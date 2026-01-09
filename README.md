@@ -2,7 +2,7 @@
 
 # Kyanite - Dynamic Workspaces for Plasma 6
 
-Kyanite is a dynamic workspace script for KDE Plasma 6 designed to provide a cohesive, predictable, and genuinely tiling window manager–style experience. It was created specifically to complement Krohnkite and to make Plasma behave more like a true dynamic TWM rather than a traditional desktop environment with added automation.
+Kyanite is a dynamic workspace script for KDE Plasma 6 designed to provide a cohesive, predictable, and genuinely dynamic workspace experience. It was created specifically to complement Krohnkite and to make Plasma behave more like a true dynamic TWM rather than a traditional desktop environment with added automation.
 
 The goal of Kyanite is simple: workspaces should appear only when they are needed, disappear when they are no longer useful, and never disrupt the user’s spatial or mental model while doing so.
 
