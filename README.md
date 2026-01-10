@@ -1,6 +1,6 @@
 # Kyanite | Smart Dynamic Workspace Management for Plasma 6
 
-A Plasma 6 ready KWin script that delivers intelligent, self maintaining virtual desktops. Kyanite creates new desktops when you need them, removes empty ones when you don’t, and keeps your workspace numbering stable and predictable.
+A Plasma 6 native KWin script that delivers intelligent, self maintaining virtual desktops. Kyanite creates new desktops when you need them, removes empty ones when you don’t, and keeps your workspace numbering stable and predictable.
 
 ## Overview
 
